@@ -2,7 +2,7 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "I'm Feeling Lucky",
+        "label": "Feeling Lucky",
         "command": "feeling-lucky:search"
       }
     ]
@@ -12,7 +12,7 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "I'm Feeling Lucky",
+          "label": "Feeling Lucky",
           "submenu": [
             {
               "label": "I'm Feeling Lucky",

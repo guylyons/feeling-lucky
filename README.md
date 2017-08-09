@@ -1,4 +1,4 @@
-# Atom Feeling Lucky
+# Feeling Lucky
 
 Use Google's "I'm Feeling Lucky" search from Atom!
 
@@ -6,7 +6,7 @@ Use Google's "I'm Feeling Lucky" search from Atom!
 
 ## Example
 
-![Usage Animation](https://github.com//guylyons/atom-feeling-lucky/raw/master/assets/usage.gif)
+![Usage Animation](https://github.com/guylyons/feeling-lucky/raw/master/assets/usage.gif)
 
 ## Usage
 
