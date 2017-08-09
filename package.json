@@ -1,9 +1,15 @@
 {
   "name": "feeling-lucky",
   "main": "./lib/feeling-lucky",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Search Google at point or by selection with I'm Feeling Lucky",
-  "keywords": ["search", "google", "lucky", "find", "query"],
+  "keywords": [
+    "search",
+    "google",
+    "lucky",
+    "find",
+    "query"
+  ],
   "author": "Guy Lyons",
   "activationCommands": {
     "atom-workspace": "feeling-lucky:search"
